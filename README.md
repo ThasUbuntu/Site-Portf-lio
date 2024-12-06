@@ -1,7 +1,11 @@
-🌟 Site Portfólio🌟 Site Portfólio
-Este é o meu site portfólio pessoal, onde apresento informações sobre minha carreira, habilidades, projetos, e formas de entrar em contato comigo. Ele foi desenvolvido com foco em design moderno, responsivo e acessível.
+🌟Site Portfólio🌟 
+
+Este é o meu site portfólio pessoal, onde apresento informações sobre minha carreira, 
+habilidades, projetos, e formas de entrar em contato comigo. 
+Ele foi desenvolvido com foco em design moderno, responsivo e acessível.
 
 📌 Funcionalidades
+
 Página inicial: Uma introdução breve com meu nome, profissão e objetivos.
 Sobre mim: Detalhes sobre minha formação, experiência e interesses.
 Projetos: Uma galeria com os projetos mais relevantes que já desenvolvi.
@@ -9,6 +13,7 @@ Contato: Formulário para envio de mensagens diretamente do site, links para min
 Download de currículo: Possibilidade de baixar meu currículo em PDF.
 
 🛠️ Tecnologias Utilizadas
+
 HTML5: Estrutura do site.
 CSS3: Estilização e responsividade.
 JavaScript: Funcionalidades interativas, como validação de formulários.
@@ -27,6 +32,7 @@ O site está hospedado em:
 👉 ...
 
 📂 Estrutura do Projeto
+
 site-portifolio/
 ├── index.html        # Página inicial
 ├── about.html        # Página "Sobre Mim"
