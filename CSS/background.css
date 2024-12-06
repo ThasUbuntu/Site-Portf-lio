@@ -1,0 +1,16 @@
+body{ 
+    margin: 0;
+  }
+  canvas{ 
+    display: block;
+  }
+  #particles-container{ 
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    z-index: -1; /* Coloca o fundo atrás de outros elementos */
+    background-color: #090B0C; 
+  }
+  
